@@ -1,0 +1,11 @@
+C:\Users\Алия\Documents\Visual Studio 2015\Projects\ClientServerCommunicate\ClientServerCommunicateSql2\bin\Debug\ClientServerCommunicateSql2.dll
+C:\Users\Алия\Documents\Visual Studio 2015\Projects\ClientServerCommunicate\ClientServerCommunicateSql2\bin\Debug\ClientServerCommunicateSql2.pdb
+C:\Users\Алия\Documents\Visual Studio 2015\Projects\ClientServerCommunicate\ClientServerCommunicateSql2\bin\Debug\ClientServerCommunicate.Data.dll
+C:\Users\Алия\Documents\Visual Studio 2015\Projects\ClientServerCommunicate\ClientServerCommunicateSql2\bin\Debug\EntityFramework.dll
+C:\Users\Алия\Documents\Visual Studio 2015\Projects\ClientServerCommunicate\ClientServerCommunicateSql2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Алия\Documents\Visual Studio 2015\Projects\ClientServerCommunicate\ClientServerCommunicateSql2\bin\Debug\SQLite.CodeFirst.dll
+C:\Users\Алия\Documents\Visual Studio 2015\Projects\ClientServerCommunicate\ClientServerCommunicateSql2\bin\Debug\ClientServerCommunicate.Data.pdb
+C:\Users\Алия\Documents\Visual Studio 2015\Projects\ClientServerCommunicate\ClientServerCommunicateSql2\bin\Debug\EntityFramework.xml
+C:\Users\Алия\Documents\Visual Studio 2015\Projects\ClientServerCommunicate\ClientServerCommunicateSql2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Алия\Documents\Visual Studio 2015\Projects\ClientServerCommunicate\ClientServerCommunicateSql2\obj\Debug\ClientServerCommunicateSql2.dll
+C:\Users\Алия\Documents\Visual Studio 2015\Projects\ClientServerCommunicate\ClientServerCommunicateSql2\obj\Debug\ClientServerCommunicateSql2.pdb

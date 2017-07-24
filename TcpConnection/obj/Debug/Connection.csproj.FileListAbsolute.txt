@@ -1,0 +1,5 @@
+C:\Users\Алия\documents\visual studio 2015\Projects\ClientServerCommunicate\TcpConnection\bin\Debug\TcpConnection.dll
+C:\Users\Алия\documents\visual studio 2015\Projects\ClientServerCommunicate\TcpConnection\bin\Debug\TcpConnection.pdb
+C:\Users\Алия\documents\visual studio 2015\Projects\ClientServerCommunicate\TcpConnection\obj\Debug\Connection.csprojResolveAssemblyReference.cache
+C:\Users\Алия\documents\visual studio 2015\Projects\ClientServerCommunicate\TcpConnection\obj\Debug\TcpConnection.dll
+C:\Users\Алия\documents\visual studio 2015\Projects\ClientServerCommunicate\TcpConnection\obj\Debug\TcpConnection.pdb

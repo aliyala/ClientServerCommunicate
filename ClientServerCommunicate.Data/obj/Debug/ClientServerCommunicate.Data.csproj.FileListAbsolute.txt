@@ -1,0 +1,5 @@
+C:\Users\Алия\Documents\Visual Studio 2015\Projects\ClientServerCommunicate\ClientServerCommunicate.Data\bin\Debug\ClientServerCommunicate.Data.dll
+C:\Users\Алия\Documents\Visual Studio 2015\Projects\ClientServerCommunicate\ClientServerCommunicate.Data\bin\Debug\ClientServerCommunicate.Data.pdb
+C:\Users\Алия\Documents\Visual Studio 2015\Projects\ClientServerCommunicate\ClientServerCommunicate.Data\obj\Debug\ClientServerCommunicate.Data.dll
+C:\Users\Алия\Documents\Visual Studio 2015\Projects\ClientServerCommunicate\ClientServerCommunicate.Data\obj\Debug\ClientServerCommunicate.Data.pdb
+C:\Users\Алия\Documents\Visual Studio 2015\Projects\ClientServerCommunicate\ClientServerCommunicate.Data\obj\Debug\ClientServerCommunicate.Data.csprojResolveAssemblyReference.cache
